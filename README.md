@@ -1,6 +1,7 @@
 # AIRiSense Cloud: An AI-Enhanced IoT Air Quality Monitor
 
 ![WhatsApp Image 2025-10-31 at 22 25 41_a81ff713](https://github.com/user-attachments/assets/c938e981-afc7-423e-a2c2-b70f7270d0b2)
+![WhatsApp Image 2025-11-01 at 09 57 36_a833adee](https://github.com/user-attachments/assets/d5ee234d-f627-4866-b4db-24a807054279)
 
 **AIRiSense Cloud** is a low-cost, AI-enhanced IoT air quality monitoring system built on the ESP32-C6 platform. It addresses the critical need for accessible and intelligent environmental monitoring by converting raw sensor data into calibrated Parts Per Million (PPM) values for high accuracy.
 
