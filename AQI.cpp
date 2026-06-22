@@ -4,8 +4,8 @@
 // =======================================================================
 
 // --- Your Wi-Fi and Blynk Credentials ---
-const char* ssid = "RAMP";
-const char* pass = "Check@401";
+const char* ssid = "****";
+const char* pass = "*****";
 
 #define BLYNK_TEMPLATE_ID   "TMPL3-i5K-oKg"
 #define BLYNK_TEMPLATE_NAME "AIRiSense Cloud"
