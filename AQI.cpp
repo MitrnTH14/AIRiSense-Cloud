@@ -9,7 +9,7 @@ const char* pass = "*****";
 
 #define BLYNK_TEMPLATE_ID   "TMPL3-i5K-oKg"
 #define BLYNK_TEMPLATE_NAME "AIRiSense Cloud"
-#define BLYNK_AUTH_TOKEN    "-Of6i41qmDEkrJfkgOzq2_GGPae8VKul"
+#define BLYNK_AUTH_TOKEN    "YOUR_AUTH_TOKEN"
 
 #define BLYNK_PRINT Serial
 #include <WiFi.h>

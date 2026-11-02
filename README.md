@@ -232,7 +232,7 @@ Users can remotely mute the buzzer using the Blynk application.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AIRiSense-Cloud.git
+git clone https://github.com/MitrnTH14/AIRiSense-Cloud.git
 ```
 
 ## 2. Install Required Libraries
